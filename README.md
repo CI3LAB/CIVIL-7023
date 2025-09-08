@@ -1,5 +1,6 @@
-# CIVIL-7023 Course Information
+<img width="247" height="105" alt="image" src="https://github.com/user-attachments/assets/5e9aedf8-b65f-4797-b4bd-43c041dc3c06" /># CIVIL-7023 Course Information
 
+**Project-2**
 **Dataset Link**: [Download](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/u3011178_connect_hku_hk/EkbbLpZXBtJFjGOL_bIAUTkBbL-NYAC9DZdevnx_ODNhRA?e=MPvC3L)
 
 **Data Types**:
