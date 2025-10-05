@@ -7,3 +7,7 @@
 - **iPhone**: RGB images + tape measure  
 - **RealSense**: RGB images + depth  
 - **LiDAR**: Point cloud  
+
+
+**Project 3 reference data**
+**Dataset Link**: [Download](https://connecthkuhk-my.sharepoint.com/:u:/g/personal/u3011862_connect_hku_hk/Edi1v-svwwtDnEsBt_ayynwBELzsaEMP15So8XTodYISTw?e=QSfGRf)
